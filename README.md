@@ -30,7 +30,7 @@ Framework nos auxilia no desenvolvimento de aplicações web. Com ele, nós cons
 
 ## Frameworks que usam MVC
 
-### [Ruby on Rails]
+### [Ruby on Rails](https://www.ruby-lang.org/pt/documentation/)
 É um framework web escrito em Ruby que usa o padrão MVC para organizar o código.
 
 ### [Laravel](https://laravel.com/)
