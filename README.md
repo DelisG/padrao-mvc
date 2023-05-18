@@ -1,6 +1,6 @@
 <!-- conceito padrão mvc -->
 
-# Padrão MVC
+# Arquitetura MVC
 MVC (Model-View-Controller) é um padrão arquitetural amplamente utilizado em desenvolvimento de software para criar aplicativos com uma divisão clara e organizada entre as responsabilidades dos componentes. O padrão MVC foi criado em meados dos anos 70, originalmente para aplicativos de desktop, mas foi adaptado posteriormente para aplicativos web.
 
 ## Model
@@ -30,19 +30,19 @@ Framework nos auxilia no desenvolvimento de aplicações web. Com ele, nós cons
 
 ## Frameworks que usam MVC
 
-### Ruby on Rails
+### [Ruby on Rails]
 É um framework web escrito em Ruby que usa o padrão MVC para organizar o código.
 
-### Laravel
+### [Laravel](https://laravel.com/)
 É um framework web escrito em PHP que segue o padrão MVC.
 
-### Django
+### [Django](https://docs.djangoproject.com/pt-br/4.2/)
 É um framework web escrito em Python que usa o padrão MVC.
 
-### Spring
+### [Spring](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 É um framework de aplicação Java que usa o padrão MVC para separar a lógica de negócios da interface do usuário.
 
-### AngularJS
+### [AngularJS](https://docs.angularjs.org/guide)
 É um framework JavaScript que usa o padrão MVVM (Model-View-ViewModel), que é uma variação do padrão MVC.
 
 
